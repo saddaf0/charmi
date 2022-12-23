@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hamilton Island, Whitsundays, QLD Australia
+* source:	https://sketchfab.com/3d-models/hamilton-island-whitsundays-qld-australia-1067014b786c4d81bc9318fb88aa1233
+* author:	dionstra (https://sketchfab.com/dionstra)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hamilton Island, Whitsundays, QLD Australia" (https://sketchfab.com/3d-models/hamilton-island-whitsundays-qld-australia-1067014b786c4d81bc9318fb88aa1233) by dionstra (https://sketchfab.com/dionstra) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
